@@ -3,6 +3,7 @@
 > **A retro-futuristic instant camera experience for the modern web.**
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![React](https://img.shields.io/badge/react-v18-cyan) ![Tailwind](https://img.shields.io/badge/style-tailwind-pink)
+[Preview](https://instamatic.elcractic.qzz.io/)
 
 **Elcractic Insta-Matic** is an interactive web experiment that simulates the tactile joy of instant photography. Built with React and Tailwind CSS, it transforms digital images into nostalgic, developed polaroids directly in your browser. It features a satisfying physical UI, immersive sound-bite visuals, and dynamic photo-processing effects.
 
